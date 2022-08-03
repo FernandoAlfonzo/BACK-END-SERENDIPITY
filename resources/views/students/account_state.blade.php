@@ -38,7 +38,7 @@
     
                                 @if (count($accounts) > 0 )
                                     <a href="#" onclick="paymentStudent({{ $student->id }}, event)" 
-                                        class="btn btn-rounded btn-primary">Recibir pago <i class="fas fa-cash-register"></i>
+                                        class="btn btn-rounded btn-primary">Recibir pagoS <i class="fas fa-cash-register"></i>
                                     </a>
                                 @else
                                     <a href="#" onclick="paymentStudent({{ $student->id }}, event)" 
