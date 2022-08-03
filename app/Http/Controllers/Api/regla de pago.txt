@@ -1,0 +1,54 @@
+
+
+/////datos de vendedor login
+vendedor@gmail.com
+itsolution
+
+
+//////datos de administrativo
+administrativo@gmail.com
+itsolution
+
+
+//////////////codigos
+SERONLINE
+SYST_2_QUIN_MONTH
+ALU44123
+
+///Transferencia
+Transferencia
+
+
+mostrar los campos adicionales que se solicitaron
+compra de un producto por parte del alumno
+compra de un producto por parte de un vendedor
+compra de un producto por parte de un administrativo
+aplicar pagos en parte de cuenta
+
+
+folio de tiked o clave de transferencia
+pagos vencido son hasta 3 dias de rango
+
+dechas 15 16 y 18 que puede pagar 
+
+4 dias es bloqueo
+
+7 pagos quincenales alumnos solo
+
+perfiles para poder comprar
+
+limitar las compras por perfil de profeson
+
+registrar pagos en vendedor en front
+
+registro de alumno si ya realizo su pago
+
+->documentos para cada de servicio
+
+codigo
+pendiente
+
+fecha hora clave de rastreo genereaciones
+
+link para las plataformas en la parte de generación catalogos
+habilitar un check para agregar un input libre
